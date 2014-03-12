@@ -421,6 +421,7 @@ There are likely many duplicates in the following lists and the categorisation i
 
 1. How much time have you allotted for smoothing visual performance such as scrolling and transitions?
 1. How much time has been set aside for fine-tuning screen layouts, transitions, animations and the like (i.e. "polish")?
+1. Have you planned the part where you run your app through Instruments (Allocations) and check that every single view controller and other object are not victims of a nasty retain cycle bug?
 
 ### Prototyping
 
